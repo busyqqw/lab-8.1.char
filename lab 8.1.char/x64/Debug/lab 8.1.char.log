@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\mrtvi\OneDrive\Рабочий стол\Лаби Visual Studio\8 labu\lab 8.1.char\lab 8.1.char\Source.cpp(13,15): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\mrtvi\OneDrive\Рабочий стол\Лаби Visual Studio\8 labu\lab 8.1.char\lab 8.1.char\Source.cpp(30,17): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\mrtvi\OneDrive\Рабочий стол\Лаби Visual Studio\8 labu\lab 8.1.char\lab 8.1.char\Source.cpp(37,17): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  lab 8.1.char.vcxproj -> C:\Users\mrtvi\OneDrive\Рабочий стол\Лаби Visual Studio\8 labu\lab 8.1.char\x64\Debug\lab 8.1.char.exe
